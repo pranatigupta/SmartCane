@@ -1,0 +1,8 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/.idea/
+/.packages
+/.flutter-plugins
+/.idea/workspace.xml
+/android/
